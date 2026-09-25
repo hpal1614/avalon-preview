@@ -2,7 +2,7 @@
   "name": "Avalon Beach Dental",
   "short_name": "Avalon Dental",
   "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
-  "theme_color": "#2A9986",
-  "background_color": "#FBF8F3",
+  "theme_color": "#1FA3C2",
+  "background_color": "#FCF9F4",
   "display": "standalone"
 }
